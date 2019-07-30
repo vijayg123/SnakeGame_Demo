@@ -1,0 +1,4 @@
+blue,20
+red,15
+yellow,50
+green,10
