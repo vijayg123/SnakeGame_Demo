@@ -23,7 +23,7 @@ public class Snake : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		InvokeRepeating ("Move",.25f,.25f);
+		InvokeRepeating ("Move",0.1f,0.1f);
 	}
 	
 	// Update is called once per frame
