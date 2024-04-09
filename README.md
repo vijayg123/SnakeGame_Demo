@@ -1,4 +1,4 @@
-# SnakeGame_Assignment
+# SnakeGame_Demo
 
 #StartScene
 This scene hase basic start Game button and highest score.
